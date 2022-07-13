@@ -2,4 +2,5 @@
 
  
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
- ![](http://i.imgur.com/OUkLi.gif)
+
+ ![](http://i.imgur.com/Ssfp7.gif)
