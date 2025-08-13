@@ -18,9 +18,6 @@ for(i=1; i>0; i++){
   </div>
 
 </div>
- 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalrathore05&show_icons=true&theme=radical)
-
             
  
   
